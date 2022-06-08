@@ -16,3 +16,12 @@ parzyste. Liczby te sa plikami graficznymi podawanymi na wejscie sieci i podziel
 kategorii tzn. wzgledem rozmiaru 3x5 pikseli, dla których stworzono kilka zestawów liczb zniekształconych
 poprzez zastosowanie skali szarosci oraz obrazów 28x28 pikseli dzielacych sie na
 kilka zestawów ze zbioru MNIST.
+
+
+
+
+https://user-images.githubusercontent.com/61986866/172604374-7eeaf194-c6d2-4af0-8b47-9bf7b445e04f.mp4
+
+
+
+https://user-images.githubusercontent.com/61986866/172604418-0a08e4c6-74cf-4091-8383-a701e3bec724.mp4
